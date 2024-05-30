@@ -50,7 +50,7 @@ public class Utils {
             String backToMenu = input.nextLine();
     
             if(backToMenu.equals("y")){
-                Utils.clearScreen();
+                clearScreen();
             }
             
         }
